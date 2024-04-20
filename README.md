@@ -1,1 +1,28 @@
-In this repository, I will showcase my front-end work, primarily involving the use of HTML, CSS, and JavaScript for website creation. I’m using the best practices for coding and formatting, so that this portfolio serves as an example for other projects. Feel free to explore and provide feedback.
+# Responsive Homepage Example (HTML/CSS)
+
+This repository contains an example of a responsive homepage created using HTML and CSS.
+- Using clean code and best practices to HTML and CSS.
+
+## How to Use
+
+1. Clone the repository to your local machine.
+2. Open the `index.html` file in a web browser to view the homepage.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+- jQuery
+- Slick Carousel (slick.min.js)
+
+## Author
+
+👤 Joao Melo
+
+- Github: @johnmelodev
+- LinkedIn: @joao-melo-dev
+
+## Show Your Support
+
+Give a ⭐️ if this project helped you!
